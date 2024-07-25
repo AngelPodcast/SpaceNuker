@@ -21,4 +21,19 @@ when the file is downloaded, extract it, and open the new extracted folder (aka 
 
 # step 3:
 open cmd prompt
-type `cd gyat`
+type `cd` and add a space at the end, then drag the new folder into the cmd prompt.
+it should now look smth like this: `cd C:\Users\(your user)\Desktop\spacenuker`
+press enter and then type `pip install -r requirements.txt`
+it takes a bit of time but it does get downloaded.
+
+# bugs in step 3:
+if the pip cmd diddnt work then you probably fucked up in step 1
+
+# step 4:
+edit the config file IF U WANT and open the cmd prompt again
+type `cd C:\Users\(your user)\Desktop\spacenuker` again
+now type `main.py` and press enter. 
+
+# tutorial done :D
+yay
+
