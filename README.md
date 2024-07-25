@@ -16,3 +16,9 @@ go here: https://www.python.org/downloads/windows/ and download the windows inst
 when the installation is downloaded, open it, **AND CHECK THE OPTION TO ADD TO PATH**, then continue the installation.
 
 # step 2:
+come back here (aka github) and download the file by clicking the code button > download zip file
+when the file is downloaded, extract it, and open the new extracted folder (aka the new folder)
+
+# step 3:
+open cmd prompt
+type `cd gyat`
